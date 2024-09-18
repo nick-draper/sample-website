@@ -1,0 +1,8 @@
+site_name: My Docs
+nav:
+    - Welcome: index.md
+    - About: about.md
+theme:
+    name: 'material'
+    palette:
+        primary: 'blue'
